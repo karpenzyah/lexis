@@ -1,0 +1,839 @@
+
+
+Isaac Asimov
+
+
+The Gods Themselves
+
+
+Dedication To Mankind
+
+And the hope that the war against folly may someday be won, after all
+
+
+
+NOTE
+
+The story starts with section 6. This is not a mistake. I have my own subtle reasoning. So just read and, I hope, enjoy.
+
+
+
+
+
+1. Against stupidity
+
+
+
+6
+
+"No good!" said Lamont, sharply. "I didn't get anywhere." He had a brooding look about him that went with his deep-set eyes and the slight asymmetry of his long chin. There was a brooding look about him at the best of times, and this was not the best of times. His second formal interview with Hallam had been a greater fiasco than the first.
+
+"Don't be dramatic," said Myron Bronowski, placidly. "You didn't expect to. You told me that." He was tossing peanuts into the air and catching them in his plump-lipped mouth as they came down. He never missed. He was not very tall, not very thin.
+
+"That doesn't make it pleasant. But you're right, it doesn't matter. There are other things I can do and intend to do and, besides that, I depend on you. If you could only find out-"
+
+"Don't finish, Pete. I've heard it all before. All I have to do is decipher the thinking of a non-human intelligence."
+
+"A better-than-human intelligence. Those creatures from the para-Universe are trying to make themselves understood."
+
+"That may be," sighed Bronowski, "but they're trying to do it through my intelligence, which is better than human I sometimes think, but not much. Sometimes, in the dark of the night, I lie awake and wonder if different intelligences can communicate at all; or, if I've had a particularly bad day, whether the phrase 'different intelligences' has meaning at all."
+
+"It does," said Lamont savagely, his hands clearly balling into fists within his lab coat pockets. "It means Hallam and me. It means that fool-hero, Dr. Frederick Hallam and me. We're different intelligences because when I talk to him he doesn't understand. His idiot face gets redder and his eyes bulge and his ears block. I'd say his mind stops functioning, but I lack the proof of any other state from which it might stop."
+
+Bronowski murmured, "What a way to speak of the Father of the Electron Pump."
+
+"That's it. Reputed Father of the Electron Pump. A bastard birth, if ever there was one. His contribution was least in substance. I know."
+
+"I know, too. You've told me often," and Bronowski tossed another peanut into the air. He didn't miss.
+
+
+
+
+1
+
+It had happened thirty years before, Frederick Hallam was a radiochemist, with the print on his doctoral dissertation still wet and with no sign whatever of being a world-shaker.
+
+What began the shaking of the world was the fact that a dusty reagent bottle marked "Tungsten Metal" stood on his desk. It wasn't his; he had never used it. It was a legacy from some dim day when some past inhabitant of the office had wanted tungsten for some long-forgotten reason. It wasn't even really tungsten any more. It consisted of small pellets of what was now heavily layered with oxide -gray and dusty. No use to anyone.
+
+And one day Hallam entered the laboratory (well, it was October 3, 2070, to be exact), got to work, stopped shortly before 10 A.M., stared transfixed at the bottle, and lifted it. It was as dusty as ever, the label as faded, but he called out, "God damn it; who the hell has been tampering with this?"
+
+That, at least, was the account of Denison, who overheard the remark and who told it to Lamont a generation later. The official tale of the discovery, as reported in the books, leaves out the phraseology. One gets the impression of a keen-eyed chemist, aware of change and instantly drawing deep-seated deductions.
+
+Not so. Hallam had no use for the tungsten; it was of no earthly value to him and any tampering with it could be of no possible importance to him. However, he hated any interference with his desk (as so many do) and he suspected others of possessing keen desires to engage in such interference out of sheer malice.
+
+No one at the time admitted to knowing anything about the matter. Benjamin Allan Denison, who overheard the initial remark, had an office immediately across the corridor and both doors were open. He looked up and met Hallam's accusatory eye.
+
+He didn't particularly like Hallam (no one particularly did) and he had slept badly the night before. He was, as it happened and as he later recalled, rather pleased to have someone on whom to vent his spleen, and Hallam made the perfect candidate.
+
+When Hallam held the bottle up to his face, Denison pulled back with clear distaste. "Why the devil should I be interested in your tungsten?" he demanded. "Why should anyone? If you'll look at the bottle, you'll see that the thing hasn't been opened for twenty years; and if you hadn't put your own grubby paws on it, you would have seen no one had touched it"
+
+Hallam flushed a slow, angry red. He said, tightly, "Listen, Denison, someone has changed the contents. That's not the tungsten."
+
+Denison allowed himself a small, but distinct sniff. "How would you know?"
+
+Of such things, petty annoyance and aimless thrusts, is history made.
+
+It would have been an unfortunate remark in any case. Denison's scholastic record, as fresh as Hallam's, was far more impressive and he was the bright-young-man of the department. Hallam knew this and, what was worse, Denison knew it too, and made no secret of it Denison's "How would you know?" with the clear and unmistakable emphasis on the "you," was ample motivation for all that followed. Without it, Hallam would never have become the greatest and most revered scientist in history, to use the exact phrase Denison later used in his interview with Lament.
+
+Officially, Hallam had come in on that fateful morning, noticed the dusty gray pellets gone-not even the dust on the inside surface remaining-and clear iron-gray metal in their place. Naturally, he investigated-
+
+But place the official version to, one side. It was Denison. Had he confined himself to a simple negative, or a shrug, the chances are that Hallam would have asked others, then eventually weariest of the unexplained event, put the bottle to one side, and let subsequent tragedy, whether subtle or drastic (depending on how long the ultimate discovery was delayed), guide the future. In any event, it would not have been Hallam who rode the whirlwind to the heights.
+
+With the "How would you know?" cutting him down, however, Hallam could only retort wildly, "I'll show you that I know."
+
+And after that, nothing could prevent him from going to extremes. The analysis of the metal in the old container became his number-one priority, and his prime goal was to wipe the haughtiness from Denison's thin-nosed face and the perpetual trace of a sneer from his pale lips.
+
+Denison never forgot that moment for it was his own remark that drove Hallam to the Nobel Price and himself to oblivion.
+
+He had no way of knowing (or if he knew he would not then have cared) that there was an overwhelming stubbornness in Hallam, the mediocrity's frightened need to safeguard his pride, that would carry the day at that time more than all Denison's native brilliance would have.
+
+Hallam moved at once and directly. He carried his metal to the mass spectrography department. As a radiation chemist it was a natural move. He knew the technicians there, he had worked with them, and he was forceful. He was forceful to such an effect, indeed, that the job was placed ahead of projects of much greater pith and moment.
+
+The mass spectrographer said eventually, "Well, it isn't tungsten."
+
+Hallam's broad and humorless face wrinkled into a harsh smile. "All right. Well tell that to Bright-boy Denison. I want a report and-"
+
+"But wait awhile, Dr. Hallam. I'm telling you it's not tungsten, but that doesn't mean I know what it is."
+
+"What do you mean you don't know what it is."
+
+"I mean the results are ridiculous." The technician thought a while. "Impossible, actually. The charge-mass ratio is all wrong."
+
+"All wrong in what way?"
+
+"Too high. It just can't be."
+
+"Well, then," said Hallam and, regardless of the motive that was driving him, his next remark set him on the road to the Nobel Prize and, it might even be argued, a deserved one, "get the frequency of its characteristic x-radiation and figure out the charge. Don't just sit around and talk about something being impossible."
+
+It was a troubled technician who came into Hallam's office a few days later.
+
+Hallam ignored the trouble on the other's face-he was never sensitive-and said, "Did you find-" He then cast a troubled look of his own at Denison, sitting at the desk in his own lab and shut the door. "Did you find the nuclear charge?"
+
+"Yes, but it's wrong."
+
+"All right, Tracy. Do it over."
+
+"I did it over a dozen times. It's wrong."
+
+"If you made the measurement, that's it; Don't argue with the facts."
+
+Tracy rubbed his ear and said, "I've got to, Doc. If I take the measurements seriously, then what you've given me is plutonium-186."
+
+"Plutonium-186? Plutonium-186?"
+
+"The charge is +94. The mass is 186."
+
+"But that's impossible. There's no such isotope. There can't be."
+
+"That's what I'm saying to you. But those are the measurements."
+
+"But a situation like that leaves the nucleus over fifty neutrons short. You can't have plutonium-186. You couldn't squeeze ninety-four protons into one nucleus with only ninety-two neutrons and expect it to hang together for even a trillion-trillionth of a second."
+
+"That's what I'm telling you, Doc," said Tracy, patiently.
+
+And then Hallam stopped to think. It was tungsten he was missing and one of its isotopes, tungsten-186, was stable. Tungsten-186 had 74 protons and 112 neutrons in its nucleus. Could something have turned twenty neutrons into twenty protons? Surely that was impossible.
+
+"Are there any signs of radioactivity?" asked Hallam, groping somehow for a road out of the maze.
+
+"I thought of that," said the technician. "It's stable. Absolutely stable."
+
+"Then it can't be plutonium-186."
+
+"I keep telling you, Doc."
+
+Hallam said, hopelessly, "Well, give me the stuff." Alone once more, he sat and looked at the bottle in stupefaction. The most nearly stable isotope of plutonium was plutonium-240, where 146 neutrons were needed to make the 94 protons stick together with some semblance of partial stability.
+
+What could he do now? It was beyond him and he was. sorry he had started. After all, he had real work begging to be done, and this thing-this mystery-had nothing to do with him. Tracy had made some stupid mistake or the mass spectrometer was out of whack, or- Well, what of it? Forget the whole thing! Except that Hallam couldn't do that. Sooner or later, Denison would be bound to stop by and, with that irritating half-smile of his, ask after the tungsten. Then what could Hallam say? Could he say, "It isn't tungsten, just as I told you"
+
+Surely Denison would ask, "Oh, and what is it, then?" and nothing imaginable could have made Hallam expose himself to the kind of derision that would follow any claim that it was plutonium-186. He had to find out what it was, and he had to do it himself. Clearly, he couldn't trust anyone.
+
+So about two weeks later he entered Tracy's laboratory in what can fairly be described as a first-class fury.
+
+"Hey, didn't you tell me that stuff was non-radioactive?"
+
+"What stuff?" said Tracy automatically, before he remembered.
+
+"That stuff you called plutonium-186," said Hallam.
+
+"Oh. Well it was stable."
+
+"About as stable as your mental state. If you call this non-radioactive, you belong in a plumber's shop."
+
+Tracy frowned. "Okay, Doc. Pass it over and let's try." And then he said, "Beats me! It is radioactive. Not much, but it is. I don't see how I could have missed that."
+
+"And how far can I trust your crap about plutonium-186?"
+
+The matter had Hallam by the throat now. The mystery had become so exasperating as to be a personal affront Whoever had switched bottles, or switched contents, must either have switched again or have devised a metal for the specific purpose of making a fool of him. In either case, he was ready to pull the world apart to solve the matter if he had to-and if he could.
+
+He had his stubbornness, and an intensity that could not easily be brushed aside, and he went straight to G. C. Kantrowitsch, who was then in the final year of his own rather remarkable career. Kantrowitsch's aid was difficult to enlist but, once enlisted, it quickly caught fire.
+
+Two days later, in fact, he was storming into Hallam's office in a blaze of excitement. "Have you been handling this thing with your hands?"
+
+"Not much," said Hallam.
+
+"Well, don't If you've got any mere, don't. It's emitting positrons."
+
+"Oh?"
+
+"The most energetic positrons I've ever seen And your figures on its radioactivity are too low."
+
+"Too low?"
+
+"Distinctly. And what bothers me is that every measurement I take is just a trifle higher than the one before."
+
+
+
+
+6 (continued)
+
+Bronowski came across an apple in the capacious pocket of his jacket and bit into it. "Okay, you've seen Hallam and been kicked out as expected. What next?"
+
+"I haven't quite decided. But whatever it is, it's going to dump him on his fat behind. I saw him once before, you know; years ago, when I first came here; when I thought he was a great man. A great man- He's the greatest villain in the history of science. He's rewritten the history of the Pump, you know, rewritten it here-" Lamont tapped his temple. "He believes his own fantasy and fights for it with a diseased fury. He's a pygmy with only one talent, the ability to convince others he's a giant."
+
+Lamont looked up at Bronowski's wide and placid face, wreathed now in amusement, and forced a laugh. "Oh, well, that doesn't do any good, and I've told it all to you before anyway."
+
+"Many times," agreed Bronowski.
+
+"But it just gravels me to have the whole world-"
+
+
+
+
+2
+
+Peter Lament had been two years old when Hallam had picked up his altered tungsten for the first time. When he was twenty-five, he joined Pump Station One with the print on his own doctoral dissertation still fresh and accepted a simultaneous appointment on the Physics faculty of the university.
+
+It was a remarkably satisfactory achievement for the young man. Pump Station One was lacking in the glisten of the later stations but it was the granddaddy of them all, of the entire chain that girdled the planet now even though the entire technology was only a couple of decades old. No major technological advance had ever caught hold so rapidly and so entirely and why not? It meant free energy without limit and without problems. It was the Santa Claus and the Aladdin's lamp of the whole world.
+
+Lament had taken the job in order to deal with problems of the highest theoretical abstraction and yet he found himself interested in the amazing story of the development of the Electron Pump. It had never been written up in its entirety by someone who truly understood the theoretical principles (in so far as they could be understood) and who had some ability in translating the complexities for the general public. To be sure, Hallam himself had written a number of articles for the popular media, but these did not represent a connected, reasoned history -something Lament yearned to supply.
+
+He used Hallam's articles to begin with, other reminiscences in published form-the official documents so to speak-carrying them through to Hallam's world-shaking remark, the Great Insight, as it was often called (invariably with capital letters).
+
+Afterward, of course, when Lament had experienced his disillusionment, he began digging deeper, and the question arose in his mind as to whether Hallam's great remark had really been Hallam's. It had been advanced at the seminar which marked the true beginning of the Electron Pump and yet, as it turned out, it was extraordinarily difficult to get the details of that seminar and quite impossible to get the voice recordings.
+
+Eventually, Lamont began to suspect that the dimness of the footprints left on the sands of time by that seminar was not entirely accidental. Putting several items ingeniously together, it began to seem that there was a reasonable chance that John F. X. McFarland had said something very nearly like the crucial statement Hallam had made-and had done so before Hallam.
+
+He went to see McFarland, who was featured not at all in the official accounts, and who was now doing upper-atmosphere research, with particular reference to the Solar wind. It was not a top-echelon job, but it had its perquisites, and it had more than a little to do with Pump effects. McFarland had clearly avoided suffering the fate of oblivion that had overtaken Denison.
+
+He was polite enough to Lament and willing to. talk on any subject except the events of that seminar. That he simply didn't remember.
+
+Lamont insisted, quoted the evidence he had gathered.
+
+McFarland took out a pipe, filled it, inspected its contents thoroughly, and said, with a queer intentness. "I don't choose to remember, because it doesn't matter; it really doesn't. Suppose I laid claim to having said something. No one would believe it. I would look like an idiot and a megalomaniac one."
+
+"And Hallam would see to it that you were retired?"
+
+"I'm not saying that, but I don't see that it would do me any good. What's the difference, anyway?"
+
+"A matter of historical truth!" said Lamont
+
+"Oh, bull. The historical truth is that Hallam never let go. He drove everyone into investigating, whether they wanted to or not. Without him, that tungsten would eventually have exploded with I don't know how many casualties. There might never have been another sample, and we might never have had the Pump. Hallam deserves the credit for it, even if he doesn't deserve the credit, and if that doesn't make sense, I can't help it, because history doesn't make sense."
+
+Lament wasn't satisfied with that, but he had to make it do, for McFarland would simply say no more.
+
+Historical truth!
+
+One piece of historical truth that seemed beyond question was that it was the radioactivity that pulled "Hallam's tungsten" (this is what it was called as a matter of historical custom) into the big time. It didn't matter whether it was or was not tungsten; whether it had or had not been tampered with; even whether it was or was not an impossible isotope. Everything was swallowed up in the amazement of something, anything, which showed a constantly increasing intensity of radioactivity under circumstances that ruled out the existence of any type of radioactive breakdown, in any number of steps, then known.
+
+After a while, Kantrowitsch muttered, "We'd better spread it out. If we keep it in sizable lumps it will vaporize or explode or both and contaminate half the city."
+
+So it was powdered and scattered, and mixed with ordinary tungsten at first and then, when the tungsten grew radioactive in its turn, it was mixed with graphite, which had a lower cross-section to the radiation.
+
+Less than two months after Hallam had noticed the change in the bottle's contents, Kantrowitsch, in a communication to the editor of Nuclear Reviews, with Hallam's name appended as co-author, announced the existence of plutonium-186. Tracy's original determination was thus vindicated but his name was not mentioned, either then or later. With that Hallam's tungsten began to take on an epic scale and Denison began to note the changes that ended by making him a non-person.
+
+The existence of plutonium-186 was bad enough. To have been stable at the start and to display a curiously increasing radioactivity was much worse.
+
+A seminar to handle the problem was organized. Kantrowitsch was in the chair, which was an interesting historical note, for it was the last time in the history of the Electron Pump that a major meeting was held in connection with it that was chaired by anyone but Hallam. As a matter of fact, Kantrowitsch died five months later and the only personality with sufficient prestige to keep Hallam in the shade was removed.
+
+The meeting was extraordinarily fruitless until Hallam announced his Great Insight, but in the version as reconstructed by Lamont, the real turning point came during the luncheon break. At that time, McFarland, who is not credited with any remarks in the official records, although he was listed as an attendee, said "You know, what we need is a little bit of fantasy here. Suppose-"
+
+He was speaking to Diderick van Klemens, and Van Klemens reported it sketchily in a kind of personal shorthand in his own notes. Long before Lamont had succeeded in tracking that down, Van Klemens was dead, and though his notes convinced Lamont himself, he had to admit they would not make a convincing story without further corroboration. What's more, there was no way of proving that Hallam had overheard the remark. Lamont would have been willing to bet a fortune that Hallam was within earshot, but that willingness was not satisfactory proof either.
+
+And then, suppose Lamont could prove it. It might hurt Hallam's egregious pride, but it couldn't really shake his position. It would be argued that to McFarland, the remark was only fantasy. It was Hallam who accepted it as something more. It was Hallam who was willing to stand up in front of the group and say it officially and risk the derision that might be his. McFarland would surely never have dreamed of placing himself on official record with his "little bit of fantasy."
+
+Lamont might have counter-argued that McFarland was a well-known nuclear physicist with a reputation to lose, while Hallam was a young radiochemist who could say anything he pleased in nuclear physics and, as an outsider, get away with it.
+
+In any case, this is what Hallam said, according to the official transcript:
+
+"Gentlemen, we are getting nowhere. I am therefore going to make a suggestion, not because it necessarily makes sense, but because it represents less nonsense than anything else I've heard We are faced with a substance, plutonium-186, that cannot exist at all, let alone as an even momentarily stable substance, if the natural laws of the Universe have any validity at all. It follows, then, that since it does indubitably exist and did exist as a stable substance to begin with, it must have existed, at least to begin with, in a place or at a time or under circumstances where the natural laws of the Universe were other than they are. To put it bluntly, the substance we are studying did not originate in our Universe at all, but in another-an alternate Universe-a parallel Universe. Call it what you want.
+
+"Once here-and I don't pretend to know how it got across-it was stable still and I suggest that this was because it carried the laws of its own Universe with it. The fact that it slowly became radioactive and? then ever more radioactive may mean that the laws of our own Universe slowly soaked into its substance, if you know what I mean.
+
+"I point out that at the same time that the plutonium-186 appeared, a sample of tungsten, made up of several stable isotopes, including tungsten-186, disappeared. It may have slipped over into the parallel Universe. After all, it is logical to suppose that it is simpler for an exchange of mass to take place than for a one-way transfer to do so. In the parallel Universe, tungsten-186 may be as anomalous as plutonium-186 is here. It may begin as a stable substance and slowly become increasingly radioactive. It may serve as an energy source there just as plutonium-186 would here."
+
+The audience must have been listening with considerable astonishment for there is no record of interruption, at least until the sentence last recorded above, at which time Hallam seemed to have paused to catch his breath and perhaps to wonder at his own temerity.
+
+Someone from the audience (presumably Antoine-Jerome Lapin, though the record is not clear) asked if Professor Hallam were suggesting that an intelligent agent in the para-Universe had deliberately made the exchange in order to obtain an energy source. The expression "para-Universe," inspired apparently as an abbreviation of "parallel-Universe," thus entered the language. This question contained the first recorded use of the expression.
+
+There was a pause and then Hallam, more daring than ever, said-and this was the nub of the Great Insight- "Yes, I think so, and I think that the energy source cannot be made practical unless Universe and para-Universe work together, each at one half of a pump, pushing energy from them to us and from us to them, taking advantage of the difference in the natural laws of the two Universes."
+
+Hallam had adopted the word "para-Universe" and made it his own at this point. Furthermore, he became the first to use the word "pump" (since invariably capitalized) in connection with the matter.
+
+There is a tendency in the official account to give the impression that Hallam's suggestion caught fire at once, but it did not. Those who were willing to discuss it at all would commit themselves no farther than to say it was an amusing speculation. Kantrowitsch, in particular, did not say a word. This was crucial to Hallam's career.
+
+Hallam could scarcely carry through the theoretical and practical implications of his own suggestion all by himself, A team was required and it was built up. But none of the team, until it was too late, would associate himself openly with the suggestion. By the time success was unmistakable, the public had grown to think of it as Hallam's and Hallam's alone. It was Hallam, to all the world, and Hallam alone, who had first discovered the substance, who had conceived and transmitted the Great Insight; and it was therefore Hallam who was the Father of the Electron Pump.
+
+Thus, in various laboratories, pellets of tungsten metal were laid out temptingly. In one out of ten the transfer was made and new supplies of plutonium-186 were produced. Other elements were offered as bait and refused But wherever the plutonium-186 appeared and whoever it was that brought the supply to the central research organization working on the problem, to the public it was an additional quantity of "Hallam's-tungsten."
+
+It was Hallam again who presented some aspects of the theory to the public most successfully. To his own surprise (as he later said) he found himself to be a facile writer, and he enjoyed popularizing. Besides success has its own inertia, and the public would accept information on the project from no one but Hallam.
+
+In a since famous article in the North American Sunday Tele-Times Weekly, he wrote, "We cannot say in how many different ways the laws of the para-Universe differ from our own, but we can guess with some assurance that the strong nuclear interaction, which is the strongest known force in our Universe, is even stronger in the para-Universe; perhaps a hundred times stronger. This means that protons are more easily held together against their own electrostatic attraction and that a nucleus requires fewer neutrons to produce stability.
+
+"Plutonium-186, stable in their Universe, contains far too many protons, or too few neutrons, to be stable in ours with its less effective nuclear interaction. The plutonium-186, once in our Universe, begins to radiate positrons, releasing energy as it does so, and with each positron emitted, a proton within a nucleus is converted to a neutron. Eventually, twenty protons per nucleus have been converted to neutrons and plutonium-186 has become tungsten-186, which is stable by the laws of our own Universe. In the process, twenty positrons per nucleus have been eliminated. These meet, combine with, and annihilate twenty electrons, releasing further energy, so that for every plutonium-186 nucleus sent to us, our Universe ends up with twenty fewer electrons.
+
+"Meanwhile, the tungsten-186 that enters the para-Universe is unstable there for the opposite reason. By the laws of the para-Universe it has too many neutrons, or too few protons. The tungsten-186 nuclei begin to emit electrons, releasing energy steadily while doing so, and with each emitted electron a neutron changes to a proton until, in the end, it is plutonium-186 again. With each tungsten-186 nucleus sent into the para-Universe, twenty more electrons are added to it.
+
+"The plutonium/tungsten can make its cycle endlessly back and forth between Universe and para-Universe, yielding energy first in one and then in another, with the net effect being a transfer of twenty electrons from our Universe to their per each nucleus cycled. Both sides can gain energy from what is, in effect, an Inter-Universe Electron Pump."
+
+The conversion of this notion into reality and the actual establishment of the Electron Pump as an effective energy source proceeded with amazing speed, and every stage of its success enhanced Hallam's prestige.
+
+
+
+
+3
+
+Lament had no reason to doubt the basis of that prestige and it was with a certain hero-worshipfulness (the memory of which embarrassed him later and which he strove-with some success-to eliminate from his mind) that he first applied for a chance to interview Hallam at some length in connection with the history he was planning.
+
+Hallam seemed amenable. In thirty years, his position in public esteem had become so lofty one might wonder why his nose did not bleed. Physically, he had aged impressively, if not gracefully. There was a ponderousness to his body that gave him the appearance of circumstantial weightiness and if his face were gross in its features he seemed able to give them the air of a kind of intellectual repose. He still reddened quickly and the easily bruised nature of his self-esteem was a byword.
+
+Hallam had undergone some quick briefing before Lamont's entrance. He said, "You are Dr. Peter Lamont and you've done good work, I'm told, on para-theory. I recall your paper. On para-fusion, wasn't it?"
+
+"Yes, sir."
+
+"Well, refresh my memory. Tell me about it. Informally, of course, as though you were talking to a layman. After all," and he chuckled here, "in a way, I am a layman. I'm just a radiochemist, you know; and no great theoretician, unless you want to count a few concepts now and then."
+
+Lament accepted this, at the time, as a straightforward statement, and, indeed, the speech may not have been as obscenely condescending as he later insisted on remembering it to have been. It was typical, though, as Lament later found out, or at least maintained, of Hallam's method of grasping the essentials of the work done by others. He could talk briskly about the subject thereafter without being overparticular, or particular at all, in assigning credit.
+
+But the younger Lament of the time was rather flattered, and he began at once with that voluble eagerness one experiences in explaining one's own discoveries. "I can't say I did much, Dr. Hallam. Deducing the laws of nature of the para-Universe-the para-laws-is a tricky business. We have so little to go on. I started from what little we know and assumed no new departures that we had no evidence for. With a stronger nuclear interaction, it seems obvious that the fusion of small nuclei would take place more readily."
+
+"Para-fusion," said Hallam.
+
+"Yes, sir. The trick was simply to work out what the details might be. The mathematics involved was somewhat subtle but once a few transformations were made, the difficulties tended to melt away. It turns out, for instance, that lithium hydride can be made to undergo catastrophic fusion at temperatures four orders of magnitude lower there than here. It takes fission-bomb temperatures to explode lithium hydride here, but a mere dyamite charge, so to speak, would turn the trick in the para-Universe. Just possibly lithium hydride in the para-Universe could be ignited with a match, but that's not very likely. We've offered them lithium hydride, you know, since fusion power might be natural for them, but they won't touch it"
+
+"Yes, I know that."
+
+"It would clearly be too risky for them; like using nitroglycerine in ton-lots in rocket engines-only worse."
+
+"Very good. And you are also writing a history of the Pump."
+
+"An informal one, sir. When the manuscript is ready I will ask you to read it, if I may, so that I might have the benefit of your intimate knowledge of events. In fact, I would like to take advantage of some of that knowledge right now if you have a little time."
+
+"I can make some. What is it you want to know?" Hal-lam was smiling. It was the last time he ever smiled in Lament's presence.
+
+"The development of an effective and practical Pump, Professor Hallam, took place with extraordinary speed," began Lamont "Once the Pump Project-"
+
+"The Inter-Universe Electron Pump Project," corrected Hallam, still smiling.
+
+"Yes, of course," said Lamont, clearing his throat. "I was merely using the popular name. Once the project started, the engineering details were developed with great rapidity and with little waste motion."
+
+"That is true," said Hallam, with a touch of complacence. "People have tried to tell me that the credit was mine for vigorous and imaginative direction, but I wouldn't care to have you overstress that in your book. The fact is that we had an enormous fund of talent in the project, and I wouldn't want the brilliance of individual members to be dimmed by any exaggeration of my role."
+
+Lamont shook his head with a little annoyance. He found the remark irrelevant. He said, "I don't mean that at all. I mean the intelligence at the other end-the para-men, to use the popular phrase. They started it. We discovered them after the first transfer of plutonium for tungsten; but they discovered us first in order to make the transfer, working on pure theory without the benefit of the hint they. gave us. And there's the iron-foil they sent across-"
+
+Hallam's smile had now disappeared, and permanently. He was frowning and he said loudly, "The symbols were never understood. Nothing about them-"
+
+"The geometric figures were understood, sir. I've looked into it and it's quite clear that they were directing the geometry of the Pump. It seems to me that-"
+
+Hallam's chair shoved back with an angry scrape. He said, "Let's not have any of that, young man. We did the work, not they."
+
+"Yes-but isn't it true that they-"
+
+"That they what?"
+
+Lamont became aware now of the storm of emotion he had raised, but he couldn't understand its cause. Uncertainly, he said, "That they are more intelligent than we- that they did the real work. Is there any doubt of that, sir?"
+
+Hallam, red-faced, had heaved himself to his feet "There is every doubt," he shouted."! will not have mysticism here. There is too much of that. See here, young man," he advanced on the still seated and thoroughly astonished Lamont and shook a thick finger at him, "if your history is going to take the attitude that we were puppets in the hands of the para-men, it will not be published from this institution; or at all, if I have my way. I will not have mankind and its intelligence downgraded and I won't have para-men cast in the role of gods."
+
+Lamont could only leave, a puzzled man, utterly upset at having created harsh feeling where he had wanted only to have good will.
+
+And then he found that his historical sources were suddenly drying up. Those who had been loquacious enough a week earlier now remembered nothing and had no time for further interviews.
+
+Lamont was irritated at first and then a slow anger began to build within him. He looked at what he had from a new viewpoint, and now he began to squeeze and insist where earlier he had merely asked. When he met Hallam at department functions, Hallam frowned and looked through him and Lamont began to look scornful in his turn.
+
+The net result was that Lamont found his prime career as para-theoretician beginning to abort and turned more firmly than ever toward his secondary career as science-historian.
+
+
+
+
+6 (continued)
+
+"That damned fool," muttered Lament, reminiscently. "You had to be there, Mike, to see him go into panic at any suggestion that it was the other side that was the moving force. I look back on it and I wonder-how was it possible to meet him, however casually, and not know he would react that way. Just be grateful you never had to work with him."
+
+"I am," said Bronowski, indifferently, "though there are times you're no angel."
+
+"Don't complain. With your sort of work you have no problems."
+
+"Also no interest. Who cares about my sort of work except myself and five others in the world. Maybe six others -if you remember."
+
+Lamont remembered. "Oh, well," he said.
+
+
+
+
+4
+
+Bronowski's placid exterior never fooled anyone who grew to know him even moderately well. He was sharp and he worried a problem till he had the solution or till he had it in such tatters that he knew no solution was possible.
+
+Consider the Etruscan inscriptions on which he had built his reputation. The language had been a living one till the first century A.D., but the cultural imperialism of the Romans had left nothing behind and it had vanished almost completely. What inscriptions survived the carnage of Roman hostility and-worse-indifference were written in Greek letters so that they could be pronounced, but nothing more. Etruscan seemed to have no relationship to any of the surrounding languages; it seemed very archaic; it seemed not even to be Indo-European.
+
+Bronowski therefore passed on to another language that seemed to have no relationship to any of the surrounding languages; that seemed very archaic; that seemed not even to be Indo-European-but which was very much alive and which was spoken in a region not so very far from where once the Etruscans had lived.
+
+What of the Basque language? Bronowski wondered. And he used Basque as his guide. Others had tried this before him and given up. Bronowski did not.
+
+It was hard work, for Basque, an extraordinarily difficult language in itself, was only the loosest of helps. Bronowski found more and more reason, as he went on, to suspect some cultural connection between the inhabitants of early northern Italy and early northern Spain. He could even make out a strong case for a broad swatch of pre-Celts filling western Europe with a language of which Etruscan and Basque were dimly-related survivors. In two thousand years, however, Basque had evolved and had become more than a little contaminated with Spanish. To try, first, to reason out its structure in Roman times and then relate it to Etruscan was an intellectual feat of surpassing difficulty and Bronowski utterly astonished the world's philologists when he triumphed.
+
+The Etruscan translations themselves were marvels of dullness and had no significance whatever; routine funerary inscriptions for the most part. The fact of the translation, however, was stunning and, as it turned out, it proved of the greatest importance to Lamont.
+
+ Not at first. To be perfectly truthful about it, the translations had been a fact for nearly five years before Lamont had as much as heard that there were such people, once, as the Etruscans. But then Bronowski came to the university to give one of the annual Fellowship Lectures and Lament, who usually shirked the duty of attending which fell on the faculty members, did not shirk this one.
+
+It was not because he recognized its importance or felt any interest in it whatever. It was because he was dating a graduate student in the Department of Romance Languages and it was either that or a music festival he particularly wanted to avoid hearing. The social connection was a feeble one, scarcely satisfactory from Lament's point of view and only temporary, but it did get him to the talk.
+
+He rather enjoyed it, as it happened. The dim Etruscan civilization entered his consciousness for the first time as a matter of distant interest, and the problem of solving an undeciphered language struck him as fascinating. When young, he had enjoyed solving cryptograms, but had put them away with other childish things in favor of the much grander cryptograms posed by nature, so that he ended in para-theory.
+
+Yet Bronowski's talk took him back to the youthful joys of making slow sense of what seemed a random collection of symbols, and combined it with sufficient difficulty to add great honor to the task. Bronowski was a cryptogram-mist on the grandest scale, and it was the description of the steady encroachment of reason upon the unknown that Lament enjoyed.
+
+All would yet have gone for nothing-the triple coincidence of Bronowski's appearance at campus, Lament's youthful cryptogrammic enthusiasm, the social pressure of an attractive young lady-were it not for the fact that it was the next day that Lamont saw Hallam and placed himself firmly and, as he eventually found, permanently, in the doghouse.
+
+Within an hour of the conclusion of that interview, Lamont determined to see Bronowski. The issue at hand was the very one that had seemed so obvious to himself and that had so offended Hallam. Because it brought down censure on him, Lamont felt bound to strike back-and in connection with the point of censure specifically. The para-men were more intelligent than man. Lamont had believed it before in a casual sort of way as something more obvious than vital. Now it had become vital. It must be proved and the fact of it forced down the throat of Hal-lam; sideways, if possible, and with all the sharp corners exposed.
+
+Already Lamont found himself so far removed from his so-recent hero worship that he relished the prospect.
+
+Bronowski was still on campus and Lamont tracked him down and insisted on seeing him.
+
+Bronowski was blandly courteous, when finally cornered.
+
+Lamont acknowledged the courtesies brusquely, introduced himself with clear impatience, and said, "Dr. Bronowski, I'm delighted to have caught you before you left I hope that I will persuade you to stay here even longer."
+
+Bronowski said, "That may not be hard. I have been offered a position on the university faculty."
+
+"And you will accept the position?"
+
+"I am considering it. I think I may."
+
+"You must. You will, when you hear what I have to say. Dr. Bronowski, what is there for you to do now that you've solved the Etruscan inscriptions?"
+
+"That is not my only task, young man." (He was five years older than Lamont.) "I'm an archaeologist, and there is more to Etruscan culture than its inscriptions and more to pre-classical Italic culture than the Etruscans."
+
+"But surely nothing as exciting for you, and as challenging, as the Etruscan inscriptions?"
+
+"I grant you that."
+
+"So you would welcome something even more exciting, even more challenging, and something a trillion times as significant as those inscriptions."
+
+"What have you in mind, Dr.-Lamont?"
+
+"We have inscriptions that are not part of a dead culture, or part of anything on Earth, or part of anything in the Universe. We have something called para-symbols."
+
+"I've heard of them. For that matter, I've seen them."
+
+"Surely, then, you have the urge to tackle the problem, Dr. Bronowski? You have had the desire to work out what they say?"
+
+"No desire at all, Dr. Lament, because there's no problem."
+
+Lament stared at him suspiciously, "You mean you can read them?"
+
+Bronowski shook his head. "You mistake me. I mean I can't possibly read them, nor can anyone else. There's no base. In the case of Earthly languages, however dead, there is always the chance of finding a living language, or a dead language already deciphered, that bears some relationship to it, however faint. Failing that, there is at least the fact that any Earthly language was written by human beings with human ways of thought. That makes a starting point, however feeble. None of this is the case with the para-symbols, so that they constitute a problem that clearly has no solution. An insolubility is not a problem."
+
+Lamont had kept himself from interrupting only with difficulty, and now he burst out, "You are wrong, Dr. Bronowski. I don't want to seem to be teaching you your profession but you don't know some of the facts that my own profession has uncovered. We are dealing with para-men, concerning whom we know almost nothing. We don't know what they are like, how they think, what kind of world they live on; almost nothing, however basic and fundamental. So far, you are right."
+
+"But it's only almost nothing that you know, is that it?" Bronowski did not seem impressed. He took out a package of dried figs from his pocket opened them and began to eat. He offered it to Lamont, who shook his head.
+
+Lamont said, "Right. We do know one thing of crucial importance. They are more intelligent than we are. Item one: They can make the exchange across the inter-Universe gap, while we can play only a passive role."
+
+He interrupted himself here to ask, "Do you know anything about the Inter-Universe Electron Pump?"
+
+"A little," said Bronowski. "Enough to follow you, Doctor, if you don't get technical."
+
+Lamont hastened on. "Item two: They sent us instructions as to how to set up our part of the Pump. We couldn't understand it but we could make out the diagrams just sufficiently well to give us the necessary hints. Item Three: They can somehow sense us. At least they can become aware of our leaving tungsten for them to pick up, for instance. They know where it is and can act upon it We can do nothing comparable. There are other points but this is enough to show the para-men to be clearly more intelligent than we are."
+
+Bronowski said, "I imagine, though, that you are in the minority here. Surely your colleagues don't accept this."
+
+"They don't. But what makes you come to that conclusion?"
+
+"Because you're clearly wrong, it seems to me."
+
+"My facts are correct And since they are, how can I be wrong?"
+
+"You are merely proving the technology of the para-men is more advanced than ours. What has that to do with intelligence? See here"-Bronowski rose to take off his jacket and then sat down in a half-reclining position, the soft rotundity of his body seeming to relax and crease in great comfort as though physical ease helped him think- "about two and a half centuries ago, the American naval commander Matthew Perry led a flotilla into Tokyo harbor. The Japanese, till then isolated, found themselves faced with a technology considerably beyond their own and decided it was unwise to risk resistance. An entire warlike nation of millions was helpless in the face of a few ships from across the sea. Did that prove that Americans were more intelligent than the Japanese were, or merely that Western culture had taken a different turning? Clearly the latter, for within half a century, the Japanese had successfully imitated Western technology and within another half a century were a major industrial power despite the fact that they were disastrously beaten in one of the wars of the time."
+
+Lamont listened gravely, and said, "We thought that, too, Dr. Bronowski, though I didn't know about the Japanese-I wish I had the time to read history. Yet the analogy is. wrong. It's more than technical superiority; it's a matter of difference in degree of intelligence."
+
+"How can you tell, aside from guessing?"
+
+"Because of the mere fact that they sent us directions. They were eager for us to set up our part of the Pump; they had to have us do it. They could not physically cross over; even their thin foils of iron on which their messages were incised (the substance most nearly stable in either world) slowly grew too radioactive to keep in one piece, though, of course, not before we had made permanent copies on our own materials." He paused for breath, feeling himself to be too excited, too eager. He mustn't oversell his case.
+
+Bronowski regarded him curiously. "All right, they sent us messages. What are you trying to deduce from that?"
+
+"That they expected us to understand. Could they be such fools as to send us rather intricate messages, in some cases quite lengthy, if they knew we would not understand? If it hadn't been for their diagrams, we would have ended nowhere. Now if they had expected us to understand, it could only be because they felt that any creatures like ourselves with a technology roughly as advanced as their own (and they must have been able to estimate that somehow-another point in favor of my belief) must also be roughly as intelligent as themselves and would experience little difficulty in working out something from the symbols."
+
+"That might also be just their naivete," said Bronowski, unimpressed.
+
+"You mean they think there is only one language, spoken and written, and that another intelligence in another Universe speaks and writes as they do? Come on!"
+
+Bronowski said, "Even if I were to grant your point, what do you want me to do? I've looked at the para-symbols; I suppose every archaeologist and philologist on Earth has. I don't see what I can do; neither, I'm sure, does anyone else. In over twenty years, no progress has been made."
+
+Lament said, intensely, "What's true is that in twenty years, there has been no desire for progress. The Pump Authority does not want to solve the symbols."
+
+"Why shouldn't they want to?"
+
+"Because of the annoying possibility that communication with the para-men mil show them to be distinctly more intelligent. Because that would show human beings to be the puppet-partners in connection with the Pump to the hurt of their ego. And, specifically," (and Lament strove to keep venom out of his voice) "because Hallam would lose the credit for being the Father of the Electron Pump."
+
+"Suppose they did want to make progress. What could be done? The will is not the deed, you know."
+
+"They could get the para-men to cooperate. They could send messages to the para-Universe. This has never been done, but it could be. A message on metal foil might be placed under a pellet of tungsten."
+
+"Oh? Are they still looking for new samples of tungsten, even with Pumps in operation?"
+
+"No, but they'll notice the tungsten and they'll assume we're trying to use it to attract their attention. We might even place the message on tungsten foil itself. If they take the message and make any sense of it at all, even the slightest, they'll send back one of their own, incorporating their findings. They might set up an equivalence table, of their words and ours, or they might use a mixture of their words and ours. It will be a kind of alternate push, first on their side, then on ours, then on theirs, and so on."
+
+"With their side," said Bronowski, "doing most of the work."
+
+"Yes."
+
+Bronowski shook his head. "No fun in that, is there? It doesn't appeal to me."
+
+Lament looked at him with flaring anger. "Why not? Don't you think there'll be enough credit in it for you? Not enough fame? What are you, a connoisseur of fame? What kind of fame did you get out of the Etruscan inscriptions, damn it. You beat out five others in the world. Maybe six. With them you're a household word and a success and they hate you. What else? You go about lecturing on the subject before audiences amounting to a few dozen and they forget your name the day after. Is that what you're really after?"
+
+"Don't be dramatic."
+
+"All right. I won't be. I'll get someone else. It may take longer but, as you say, the para-men will do most of the work anyway. If necessary, I'll do it myself."
+
+"Have you been assigned this project?"
+
+"No, I haven't. What of it? Or is that another reason you don't want to get involved. Disciplinary problems? There is no law against attempting translation and I can always place tungsten on my desk. I will not choose to report any messages I get in place of the tungsten and to that extent I will be breaking the research-code. Once the translation is made, who will complain? Would you work with me if I guaranteed your safety and kept your part in it secret? You would lose your fame but you may value your security more. Oh, well," Lament shrugged, "If I do it myself, there's the advantage of not having to worry about someone else's security."
+
+He rose to go. Both men were angry and bore themselves with that stiff-legged courtesy one assumes when addressing someone who is hostile, but still mannerly. "I presume," said Lament, "you will at least treat this conversation as confidential."
+
+Bronowski was on his feet, too. "Of that you may be assured," he said coldly, and the two shook hands briefly.
+
+Lamont did not expect to hear from Bronowski again. He then began the process of talking himself into believing it would be better to handle the translation effort on his own.,
+
+Two days later, however, Bronowski was at Lament's laboratory. He said, rather brusquely, "I'm leaving the city now, but I'll be back in September. I'm taking the position here and, if you're still interested, I'll see what I can do about the translation problem you mentioned."
+
+Lamont had barely time for a surprised expression of thanks when Bronowski stalked off, apparently angrier at having given in, than at having resisted.
+
+They became friends in time; and, in time, Lamont learned what had brought Bronowski around. The day after their discussion, Bronowski had had lunch at the Faculty Club with a group of the higher officials of the university, including, of course, the president. Bronowski had announced that he would accept the position and send in a formal letter to that effect in due time and all had expressed gratification.
+
+The president had said, "It will be quite a feather in our cap to have the renowned translator of the Itascan Inscriptions at the university. We are honored."
+
+The malapropism had gone uncorrected, of course, and Bronowski's smile, though strained, did not actually waver. Afterward, the head of the Department of Ancient History explained the president to be more of a Minnesotan than a classical scholar and since Lake Itasca was the point of origin of the mighty Mississippi, the slip of the tongue was a natural one.
+
+But, in combination with Lament's sneer at the extent of his fame, Bronowski found the expression rankling.
+
+When Lamont finally heard the story, he was amused. "Don't go on," he said. "I've been down that road, too. You said to yourself, 'By God, I'll do something even that knot-head will have to get straight.'"
+
+"A little like that," said Bronowski.
+
+
+
+
+5
+
+A year's work, however, had netted them very little. Messages had finally come across; messages had come back. Nothing.
+
+"Just guess!" Lamont had said feverishly to Bronowski. "Any wild guess at all. Try it out on them."
+
+"It's exactly what I'm doing, Pete. What are you so jumpy about? I spent twelve years on the Etruscan Inscriptions. Do you expect this job to take less time?"
+
+"Good God, Mike. We can't take twelve years."
+
+"Why not? Look, Pete, it hasn't escaped me that there's been a change in your attitude. You've been impossible this last month or so. I thought we had it clear at the start that this work can't go quickly, and that we've got to be patient. I thought you understood that I had my regular duties at the university, too. Look, I've been asking you this several times, now. Let me ask again. Why are you in such a hurry now?"
+
+"Because I'm in a hurry," said Lament abruptly. "Because I want to get on with it."
+
+"Congratulations," said Bronowski, dryly, "so do L Listen, you're not expecting an early death, are you? Your doctor hasn't told you you're hiding a fatal cancer?"
+
+"No, no," groaned Lamont.
+
+"Well, then?"
+
+"Never mind," said Lamont, and he walked away hurriedly.
+
+When he had first tried to get Bronowski to join forces with him, Lament's grievance had concerned only Hallam's mean-minded obstinacy concerning the suggestion that the para-men were the more intelligent. It was in that respect and that respect only that Lamont was striving for a breakthrough. He intended nothing beyond that-at first.
+
+But in the course of the following months, he had been subjected to endless exasperation. His requests for equipment, for technical assistance, for computer time were delayed; his request for travel funds snubbed; his views at interdepartmental meetings invariably overlooked.
+
+The breaking point came when Henry Garrison, junior to himself in point of service and definitely so in point of ability, received an advisory appointment, rich in prestige, that, by all rights, should have gone to Lamont. It was then that Lament's resentment built up to the point where merely proving himself right was no longer sufficient. He yearned to smash Hallam, destroy him utterly.
+
+The feeling was reinforced every day, almost every hour, by the unmistakable attitude of everyone else at the Pump Station. Lamont's abrasive personality didn't collect sympathy, but some existed nevertheless.
+
+Garrison himself was embarrassed. He was a quiet-spoken, amiable young man who clearly wanted no trouble and who now stood in the doorway of Lamont's lab with an expression that had more than a small component of apprehension in it.
+
+He said, "Hey, Pete, can I have a few words with you?"
+
+"As many as you like," said Lament, frowning and avoiding a direct eye-to-eye glance.
+
+Garrison came in and sat down. "Pete," he said, "I can't turn down the appointment but I want you to know I didn't push for it. It came as a surprise."
+
+"Who's asking you to turn it down? I don't give a damn."
+
+"Pete. It's Hallam. If I turned it down, it would go to someone else, not you. What have you done to the old man?"
+
+Lamont rounded on the other. "What do you think of Hallam? What kind of man is he, in your opinion?"
+
+Garrison was caught by surprise. He pursed his lips and rubbed his nose. "Well-" he said, and let the sound fade off.
+
+"Great man? Brilliant scientist? Inspiring leader?"
+
+"Well-"
+
+"Let me tell you. The man's a phony! He's a fraud! He's got this reputation and this position of his and he's sitting on it in a panic. He knows that I see through him and that's what he has against me."
+
+Garrison gave out a small, uneasy laugh, "You haven't gone up to him and said-"
+
+"No, I haven't said anything directly to him," said Lamont, morosely. "Some day I will. But he can tell. He knows I'm one person he isn't fooling even if I don't say anything."
+
+"But, Pete, where's the point in letting him blow it? I don't say I think he's the world's greatest, either, but where's the sense in broadcasting it? Butter him up a little. He's got your career in his hands."
+
+"Has he? I've got his reputation in mine. I'm going to show him up. I'm going to strip him."
+
+"How?"
+
+"My business!" muttered Lamont, who at the moment had not the slightest idea as to how.
+
+"But that's ridiculous," said Garrison. "You can't win. Hell just destroy you. Even if he isn't an Einstein or an Oppenheimer really, he's more than either to the world in general. He is the Father of the Electron Pump to Earth's two-billion population and nothing you can possibly do will affect them as long as the Electron Pump is the key to human paradise. While that's true, Hallam can't be touched and you're crazy if you think he can. What the hell, Pete, tell him he's great and eat crow. Don't be another Denison!"
+
+"I tell you what, Henry," said Lament, in sudden fury. "Why not mind your own business?"
+
+Garrison rose suddenly and left without a word. Lamont had made another enemy; or, at least, lost another friend. The price, however, was right, he finally decided, for one remark of Garrison had set the ball rolling in another direction.
+
+Garrison had said, in essence, " as long as the Electron Pump is the key to human paradise Hallam can't be touched."
+
+With that clanging in his mind, Lamont for the first time turned his attention away from Hallam and placed it on the Electron Pump.
+
+Was the Electron Pump the key to human paradise? Or was there, by Heaven, a catch?
+
+Everything in history had had a catch. What was the catch to the Electron Pump?
+
+Lamont knew enough of the history of para-theory to know that the matter of "a catch" had not gone unexplored. When it was first announced that the basic over-all change in the Electron Pump was the Pumping of electrons from the Universe to the para-Universe, there had not been wanting those who said immediately, "But what will happen when all the electrons have been Pumped?"
+
+This was easily answered. At the largest reasonable rate of Pumping, the electron supply would last for at least a trillion trillion years-and the entire Universe, together, presumably, with the para-Universe, wouldn't last a tiny fraction of that time.
+
+The next objection was more sophisticated. There was no possibility of Pumping all the electrons across. As the electrons were Pumped, the para-Universe would gain a net negative charge, and the Universe a net positive charge. With each year, as this difference in charge grew, it would become more difficult to Pump further electrons against the force of the opposed charge-difference. It was, of course neutral atoms that were actually Pumped but the distortion of the orbital electrons in the process created an effective charge which increased immensely with the radioactive changes that followed.
+
+If the charge-concentration remained at the points of Pumping, the effect on the orbit-distorted atoms being Pumped would stop the entire process almost at once, but of course, there was diffusion to take into account. The charge-concentration diffused outward over the Earth, and the effect on the Pumping process had been calculated with that in mind.
+
+The increased positive charge of the Earth generally forced the positively charged Solar wind to avoid the planet at a greater distance, and the magnetosphere was enlarged. Thanks to the work of McFarland (the real originator of the Great Insight according to Lament) it could be shown that a definite equilibrium point was reached as the Solar wind swept away more and more of the accumulating positive particles that were repelled from Earth's surface and driven higher into the exosphere. With each increase in Pumping intensity; with each additional Pumping Station constructed, the net positive charge on Earth increased slightly, and the magnetosphere expanded by a few miles. The change, however, was minor, and the positive charge was, in the end, swept away by the Solar wind and spread through the outer reaches of the Solar system.
+
+Even so-even allowing for the most rapid possible diffusion of the charge-the time would come when the local charge-difference between Universe and para-Universe at the points of Pumping would grow large enough to end the process, and that would be a small fraction of the time it would take really to use up all the electrons; roughly, a trillion-trillionth of the time.
+
+But that still meant that Pumping would remain possible for a trillion years. Only a single trillion years, but that was enough; it would suffice. A trillion years was far longer than man would last, or the Solar system either. And if man somehow did last that long (or some creature that was man's successor and supplanter) then no doubt something would be devised to correct the situation. A great deal could be done in a trillion years.
+
+Lamont had to agree to that.
+
+But then he thought of something else, another line of thought that he well remembered Hallam himself had dealt with in one of the articles he had written for popular consumption. With some distaste, he dug out the article. It was important to see what Hallam had said before he carried the matter further.
+
+The article said, in part, "Because of the ever-present gravitational force, we have come to associate the phrase 'downhill' with the kind of inevitable change we can use to produce energy of the sort we can change into useful work. It is the water running downhill that, in past centuries, turned wheels which in turn powered machinery such as pumps and generators. But what happens when all the water has run downhill?
+
+"There can then be no further work possible till the water has been returned uphill-and that takes work. In fact, it takes more work to force the water uphill than we can collect by then allowing it to flow downhill. We work at an energy-loss. Fortunately, the Sun does the work for us. It evaporates the oceans so that water vapor climbs high in the atmosphere, forms clouds, and eventually falls again as rain or snow. This soaks the ground at all levels, fills the springs and streams, and keeps the water forever running downhill.
+
+"But not quite forever. The Sun can raise the water vapor, but only because, in a nuclear sense, it is running downhill, too. It is running downhill at a rate immensely greater than any Earthly river can manage, and when all of it has run downhill there wilt be nothing we know of to pull it uphill again,
+
+"All sources of energy in our Universe run down. We can't help that. Everything is downhill in just one direction, and we can force a temporary uphill, backward, only by taking advantage of some greater downhill in the vicinity. If we want useful energy forever, we need a road that is downhill both ways. That is a paradox in our Universe; it stands to reason that whatever is downhill one way is uphill going back.
+
+"But need we confine ourselves to our Universe alone? Think of the para-Universe. It has roads, too, that are downhill in one direction and uphill in the other. Those roads, however, don't fit in with our roads. It is possible to take a road from the para-Universe to our Universe that is downhill, but which, when we follow it back from the Universe to the para-Universe, is downhill again-because the Universes have different laws of behavior.
+
+"The Electron Pump takes advantage of a road that is downhill both ways. The Electron Pump-"
+
+Lament looked back at the title of the piece again. It was "The Road that is Downhill Both Ways."
+
+He began thinking. The concept was, of course, a familiar one to him, as was its thermodynamic consequences. But why not examine the assumptions? That had to be the weak point in any theory. What if the assumptions, assumed to be right by definition, were wrong? What would be the consequences if one started with other assumptions? Contradictory ones?
+
+He started blindly but within a month he had that feeling that every scientist recognizes-the endless click-click as unexpected pieces fall into place, as annoying anomalies become anomalous no more- It was the feel of Truth.
+
+It was from that moment on that he began to put additional pressure on Bronowski.
+
+And one day he said, "I'm going to see Hallam again."
+
+Bronowski's eyebrows lifted. "What for?"
+
+"To have him turn me down."
+
+"Yes, that's about your speed, Pete. You're unhappy if your troubles die down a bit."
+
+"You don't understand. It's important to have him refuse to listen to me. I can't have it said afterward that I by-passed him; that he was ignorant of it."
+
+"Of what? Of the translation of the para-symbols? There isn't any yet. Don't jump the gun, Pete."
+
+"No, no, not that," and he would say no more. Hallam did not make it easy for Lament; it was some weeks before he could find time to see the younger man. Nor did Lament intend to make it easy for Hallam. He stalked in with every invisible bristle on edge and sharply pointed. Hallam waited for him frozen-faced, with sullen eyes.
+
+Hallam said abruptly, "What's this crisis you're talking about?"
+
+"Something's turned up, sir," said Lament, tonelessly, "inspired by one of your articles."
+
+"Oh?" Then, quickly, "Which one?"
+
+" 'The Road that is Downhill Both Ways,' The one you programmed for Teenage Life, sir."
+
+"And what about it?"
+
+"I believe the Electron Pump is not downhill both ways, if I may use your metaphor, which is not, as it happens, a completely accurate way of describing the Second Law of Thermodynamics."
+
+Hallam frowned. "What have you got in mind?"
+
+"I can explain it best, sir, by setting up the Field Equations for the two Universes, sir, and demonstrating an interaction that till now has not been considered-unfortunately so, in my opinion."
+
+With that, Lament moved directly to the thixo-board and quickly fingered the equations, talking rapidly as he did so.
+
+Lamont knew that Hallam would be humiliated and irritated by such a procedure since he would not follow the mathematics. Lamont counted on that.
+
+Hallam growled, "See here, young man, I have no time now to engage in a full discussion of any aspect of para-theory. You send me a complete report and, for now, if you have some brief statement as to what you're getting at, you may make it."
+
+Lamont walked away from the thixo-board, with an unmistakable expression of contempt on his face. He said,. "All right. The Second Law of Thermodynamics describes a process that inevitably chops off extremes. Water doesn't run downhill; what really happens is that extremes of gravitational potential are equalized. Water will just as easily bubble uphill if trapped underground. You can get work out of the juxtaposition of two different temperature levels, but the end result is that the temperature is equalized at an intermediate level; the hot body cools down and the cold body warms up. Both cooling and warming are equal aspects of the Second Law and, under, the proper circumstances, equally spontaneous.".
+
+"Don't teach me elementary thermodynamics, young man. What is it you want? I have very little time."
+
+Lamont said, with no change of expression, no sense of being hurried. "Work is obtained out of the Electron Pump by an equalization of extremes. In this case, the extremes are the physical laws of the two Universes, The conditions that make those laws possible, whatever those conditions may be, are being bled from one Universe into the other and the end result of the entire process will be two Universes in which the laws of nature will be identical -and intermediate as compared with the situation now. Since this will produce uncertain but undoubtedly large changes in this Universe, it would seem that serious consideration must be given to stopping the Pumps and, shutting down the whole operation permanently."
+
+It was at this point that Lamont expected Hallam to explode, cutting off any chance of further explanation. Hallam did not fail that expectation. He sprang out of his chair, which fell over. He kicked the chair away and took the two steps that separated him from Lamont.
+
+Warily, Lamont pushed his own chair hastily backward and stood up.
+
+"You idiot," shouted Hallam, almost stammering in his anger. "Don't you suppose everyone at the station understands about the equalization of natural law. Are you wasting my time telling me something I knew when you were learning to read? Get out of here, and any time you want to offer me your resignation, consider it accepted."
+
+Lament left, having obtained exactly what he wanted, and yet he felt himself to be furious over Hallam's treatment of him.
+
+
+
+
+6 (concluded)
+
+"Anyway," said Lamont, "it clears the ground. I've tried to tell him. He wouldn't listen. So I take the next step."
+
+"And what is that?" said Bronowski.
+
+"I'm going to see Senator Burt."
+
+"You mean the head of the Committee on Technology and the Environment?"
+
+"The same. You've heard of him, then."
+
+"Who hasn't. But where's the point, Pete. What have you got that would interest him? It's not the translation. Pete, I'm asking you once again. What have you got on your mind?"
+
+"I can't explain. You don't know para-theory."
+
+"Does Senator Burt?"
+
+"More than you, I think."
+
+Bronowski pointed his finger. "Pete, let's not kid around. Maybe I know things you don't. We can't work together if we work against each other. Either I'm a member of this little two-man corporation or I'm not. You tell me what's on your mind, and I'll tell you something in exchange. Otherwise, let's stop this altogether."
+
+Lamont shrugged. "All right. If you want it, I'll give it to you. Now that I've got it past Hallam, maybe it's just as well. The point is that the Electron Pump is transferring natural law. In the para-Universe, the strong interaction is a hundred times stronger than it is here, which means that nuclear fission is much more likely here than there, and nuclear fusion is much more likely there than here. If the Electron Pump keeps on long enough, there will be a final equilibrium in which the strong nuclear interaction will be equally strong in both Universes, and be at a figure about ten times what it is here now and one-tenth what it is there now."
+
+"Didn't anyone know this?"
+
+"Oh, sure, everyone knew it. It was obvious almost from the start. Even Hallam can see it. That's what got the bastard so excited. I started telling him this in detail as though I didn't think he had ever heard it before and he blew up."
+
+"But what's the point then? Is there danger in the interaction becoming intermediate?"
+
+"Of course. What do you think?"
+
+"I don't think anything. When will it become intermediate?"
+
+"At the present rate, 1030 years or so."
+
+"How long is that?"
+
+"Long enough for a trillion trillion Universes like this one to be born, live, grow old, and die, one after the other."
+
+"Oh blazes, Pete. What odds does it make then?"
+
+"Because to reach that figure," said Lamont, slowly and carefully, "which is the official one, certain assumptions were made which I think were wrong. And if certain other assumptions are made, which I think are right, we're in trouble now"
+
+"What kind of trouble?"
+
+"Suppose the Earth turned into a whiff of gas in a period of about five minutes. Would you consider that trouble?"
+
+"Because of the Pumping?"
+
+"Because of the Pumping!"
+
+"And how about the world of the para-men? Would they be in danger, too?"
+
+"I'm sure of it. A different danger, but danger."
+
+Bronowski stood up and began pacing. He wore his brown hair thick and long in what had once been called a Buster Brown. Now he was clutching at it He said, "If the para-men are more intelligent than we are, would they be running the Pump? Surely they would know it was dangerous, before we did."
+
+"I've thought of that," said Lamont "What I guess is that they've started Pumping for the first time and they, like us, got the process started for the apparent good it would bring and worried about consequences later."
+
+"But you say you know the consequences now. Would they be slower than you were?"
+
+"It depends on if and when they look for those consequences. The Pump is too attractive to try to spoil, I Wouldn't have looked myself if I hadn't- But what's on your mind, Mike?"
+
+Bronowski stopped his pacing, looked full at Lamont, and said, "I think we've got something."
+
+Lamont looked at him wildly, then leaped forward to seize the other's sleeve. "With the para-symbols? Tell me, Mike!"
+
+"It was while you were with Hallam. While you were actually with Hallam. I haven't known exactly what to do about it, because I wasn't sure what was going on. And now-"
+
+"And now?"
+
+"I'm still not sure. One of their foils came through, with four symbols"
+
+"Oh?"
+
+" in the Latin alphabet And it can be pronounced."
+
+"What?"
+
+"Here it is."
+
+Bronowski produced the foil with the air of a conjurer. Incised on it, quite different from the delicate and intricate spirals and differential glistenings of the para-symbols, were four broad, childlike letters: F-E-E-R.
+
+"What do you suppose that means?" asked Lament, blankly.
+
+"So far all I've been able to think of is that it's F-E-A-R misspelled."
+
+"Is that why you were cross-examining me? You thought someone on the other side was experiencing fear?"
+
+"And I thought it might have some connection with your own obviously increasing excitement over the last month. Frankly, Pete, I didn't like being kept in the dark,"
+
+"Okay. Now let's not jump to conclusions. You're the one with experience with fragmentary messages. Wouldn't you say that the para-men were beginning to experience fear concerning the Electron Pump?"
+
+"Not necessarily at all," said Bronowski. "I don't know how much they can sense of this Universe. If they can sense the tungsten we lay out for them; if they can sense our presence; perhaps they are sensing our state of mind. Perhaps they are trying to reassure us; telling us there is no reason to fear."
+
+"Then why don't they say N-O F-E-E-R."
+
+"Because they don't know our language that well yet"
+
+"Hmm. Then I can't take it to Burt."
+
+"I wouldn't. It's ambiguous. In fact, I wouldn't go to Burt till we get something more from the other side. Who knows what they're trying to say."
+
+"No, I can't wait, Mike. I know I'm right, and we have no time."
+
+"All right, but if you see Burt you'll be burning your bridges. Your colleagues will never forgive you. Have you thought of talking to the physicists here? You can't put pressure on Hallam on your own, but a whole group of you-"
+
+Lamont shook his head vigorously, "Not at all. The men at this station survive by virtue of their jellyfish quality. There isn't one who would stand against him. Trying to rally the others to put pressure on Hallam would be like asking strands of cooked spaghetti to come to attention."
+
+Bronowski's soft face looked unwontedly grim. "You may be right."
+
+"I know I'm right," said Lamont, just as grimly.
+
+
+
+
+7
+
+It had taken time to pin the senator down; time that Lamont had resented losing; the more so since nothing further in Latin letters had come from the para-men. No message of any kind, though Bronowski had sent across half a dozen, each with a carefully selected combinations of para-symbols and each incorporating both F-E-E-R and F-E-A-R.
+
+Lamont wasn't sure of the significance of the half-dozen variations but Bronowski had seemed hopeful.
+
+Yet nothing had happened and now Lamont was at last in to see Burt.
+
+The senator was thin-faced, sharp-eyed, and elderly. He had been the head of the Committee on Technology and the Environment for a generation. He took his job seriously and had proved that a dozen times.
+
+He fiddled, now, with the old-fashioned necktie that he affected (and that had become his trademark) and said, "I can only give you half an hour, son." He looked at his wristwatch.
+
+Lamont was not worried. He expected to interest Senator Burt enough to make him forget about time limits. Nor did he attempt to begin at the beginning; his intentions here were quite different from those in connection with Hallam.
+
+He said, "I won't bother with the mathematics, Senator, but I will assume you realize that through Pumping, the natural laws of the two Universes are being mixed."
+
+"Stirred together," said the senator, calmly, "with equilibrium coming in about 1030 years. Is that the figure?" His eyebrows in repose arched up and then down, giving his lined face a permanent air of surprise.
+
+"It is," said Lamont, "but it is arrived at by assuming that the alien laws seeping into our Universe and theirs spread outward from the point of entry at the speed of light. That is just an assumption and I believe it to be wrong."
+
+"Why?"
+
+"The only measured rate of mixing is within the plutonium-186 sent into this Universe. That rate of mixing is extremely slow at first, presumably because matter is dense, and increases with time. If the plutonium is mixed with less dense matter, the rate of mixing increases more rapidly. From a few measurements of this sort it has been calculated that the permeation rate would increase to the speed of light in a vacuum. It would take some time for the alien laws to work their way into the atmosphere, far less time to work their way to the top of the atmosphere and then off through space in every direction at 300,000 kilometers per second, thinning into harmlessness in no time."
+
